@@ -1,0 +1,15 @@
+[project]
+name = "python-ai-web-scraper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "html5lib>=1.1",
+    "langchain>=1.2.6",
+    "langchain-ollama>=1.0.1",
+    "lxml>=6.0.2",
+    "selenium>=4.40.0",
+    "streamlit>=1.53.0",
+]
